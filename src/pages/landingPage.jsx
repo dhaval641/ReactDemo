@@ -1,6 +1,6 @@
 
-import AnswerOptions from './answerOptions';
-import QuestionDetails from './questionDetails';
+import AnswerOptions from '../components/answerOptions';
+import QuestionDetails from '../components/questionDetails';
 
 
 export default function LandingPage(){
