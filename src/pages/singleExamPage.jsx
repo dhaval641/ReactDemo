@@ -1,7 +1,6 @@
 
 import ActionPanel from '../components/singlePageExam/actionPanel';
 import OptionPanel from '../components/singlePageExam/optionPanel';
-import QuestionPanel from '../components/singlePageExam/questionPanel';
 import QuestionStatusPanel from '../components/singlePageExam/answerStatusPanel';
 
 
