@@ -1,4 +1,4 @@
-# Webapp for conducting Exam Online
+# Webapp for conducting Online Exams
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
